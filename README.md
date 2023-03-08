@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<h3 align="left">Connect with me: +48 788710291</h3>
+<h3 align="left">Connect with me: <a href="mailto:blackweeeed@gmail.com">opis</a>
+</h3>
 <p align="left">
 </p>
 
