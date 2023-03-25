@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A frontend developer from Poland</h3>
 
-<h3 align="left">Connect with me: <a href="mailto:blackweeeed@gmail.com">blackweeeed@gmail.com</a>
+<h3 align="left">Connect with me: <a href="mailto:konr.jankowskid@gmail.com">konr.jankowskid@gmail.com</a>
 </h3>
 <p align="left">
 </p>
